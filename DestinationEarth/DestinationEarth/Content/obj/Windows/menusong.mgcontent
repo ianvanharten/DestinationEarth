@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/DestinationEarth/DestinationEarth/Content/menusong.wav</SourceFile>
+  <SourceTime>2020-12-06T13:27:37.4024991-05:00</SourceTime>
+  <DestFile>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/DestinationEarth/DestinationEarth/Content/bin/Windows/menusong.xnb</DestFile>
+  <DestTime>2020-12-12T10:07:17.1843949-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/DestinationEarth/DestinationEarth/Content/bin/Windows/menusong.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

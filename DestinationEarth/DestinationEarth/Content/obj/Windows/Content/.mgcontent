@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/About-screen.jpg</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/asteroid_brown.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/asteroid_dark.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/asteroid_gray.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/asteroid_square.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/Chunky Explosion.mp3</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/Cruiser.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/Destroyer.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/Explosion.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/fuelmeter.spritefont</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/Help-screen.jpg</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/ingamesong.mp3</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/menuFont.spritefont</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/menusong.wav</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/planet2.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/selectedItemFont.spritefont</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0001.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0002.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0003.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0004.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0005.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0006.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0007.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0008.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0009.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0010.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0011.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0012.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0013.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0014.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0015.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0016.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0017.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0018.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0019.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/smallfighter0020.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/SpaceBg.png</File>
+    <File>C:/Users/ianvh/OneDrive - Conestoga College/Documents/Conestoga/Level 3 - Fall 2020/PROG2370/Final Project/KSIVFinalProject/DestinationEarth/DestinationEarth/Content/sprite_asteroid_2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
